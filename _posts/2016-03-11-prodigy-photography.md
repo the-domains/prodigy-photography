@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Prodigy Photography
-datePublished: '2016-03-11T03:14:27.395Z'
-dateModified: '2016-03-11T03:14:26.134Z'
+datePublished: '2016-03-11T03:18:23.195Z'
+dateModified: '2016-03-11T03:17:59.230Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-prodigy-photography.md
@@ -22,4 +22,4 @@ url: prodigy-photography/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/087d32f3-61b1-45e3-970e-c7da35f7c842.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/80d31658104d85e4fd15a74264d616c32d98f27b.jpg)
