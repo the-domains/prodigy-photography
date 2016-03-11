@@ -1,0 +1,28 @@
+name: Prodigy Photography
+favicon: null
+layout_spectrum: 0.009567008586600423
+typography_spectrum: 0.38939866912551224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6869909844826907
+  lightness: 0.37817940139211714
+  saturation: 0.6631206572055817
+  rhythmicContrast: 0.09372134483419359
+purpose: []
