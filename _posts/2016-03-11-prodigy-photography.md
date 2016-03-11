@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Prodigy Photography
-datePublished: '2016-03-11T03:18:23.195Z'
-dateModified: '2016-03-11T03:17:59.230Z'
+datePublished: '2016-03-11T03:25:08.270Z'
+dateModified: '2016-03-11T03:22:46.534Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-prodigy-photography.md
